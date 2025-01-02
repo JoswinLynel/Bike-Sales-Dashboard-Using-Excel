@@ -3,6 +3,9 @@
 ## Overview
 The Bike Sales Dashboard is an Excel-based project that provides insights into bike purchase patterns based on customer demographics and commuting behavior. The dashboard leverages interactive visualizations and filters to help users explore data related to marital status, region, education, income, age brackets, and commute distance.
 
+## Dashboard Preview
+![Dashboard Preview](Dashboard.png)
+
 ## Features
 - **Interactive Filters:** Users can filter data by marital status, region, and education level.
 - **Visual Analysis:** Includes line charts, bar charts, and other visualizations to display key metrics such as:
